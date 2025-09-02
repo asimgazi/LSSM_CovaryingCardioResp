@@ -1,5 +1,4 @@
 # LSSM_CovaryingCardioResp
-(under construction)
 
 This repository contains code to replicate the methods described in the below referenced paper.
 
