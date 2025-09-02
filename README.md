@@ -3,9 +3,9 @@
 
 This repository contains code to replicate the methods described in the below referenced paper.
 
-A. H. Gazi et al., "Modeling Latent Dynamics of the Autonomic Nervous System in Response to Trauma Recall and Non-Invasive Vagus Nerve Stimulation," in IEEE Transactions on Biomedical Engineering, doi: [10.1109/TBME.2025.3580051](https://doi.org/10.1109/TBME.2025.3580051).
+A. H. Gazi et al., "Modeling Latent Dynamics of the Autonomic Nervous System in Response to Trauma Recall and Non-Invasive Vagus Nerve Stimulation," in *IEEE Transactions on Biomedical Engineering*, doi: [10.1109/TBME.2025.3580051](https://doi.org/10.1109/TBME.2025.3580051).
 
-The primary purpose of this repository is to provide reference code to replicate methods for other applications. 
+**The primary purpose of this repository is to provide reference code to replicate methods for other applications.** 
 
 If you would also like to see how this specific code runs, the `main.mlx` script is the place to start. The `main.mlx` script is a MATLAB live script - similar to a Python notebook. Below are general steps to run the code, noting that aspects of the code will need to be modified based upon the data you have available.
 
