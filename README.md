@@ -1,4 +1,4 @@
-# LSSM_CovaryingCardioResp
+# MIMOlinearSSMs_ANSmodeling
 
 This repository contains code to replicate the methods described in the below referenced paper.
 
