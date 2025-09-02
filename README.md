@@ -13,4 +13,4 @@ If you would also like to see how this specific code runs, the `main.mlx` script
 2. Update directories, variable names, etc. in the script based upon where you have processed physiological features and protocol timings saved, where you would like results to be saved, how you would like results to be named, etc.
 3. Run the script
 
-Note that much more analysis was conducted and many more plots were generated compared to the figures and analyses included in the paper. If you only want to generate the results shown in the paper, identify those specific code blocks and just run those. 
+Note that much more analysis was conducted and many more plots were generated compared to the figures and analyses included in the paper. If you only want to generate the results shown in the paper, identify those specific code blocks and run those. 
